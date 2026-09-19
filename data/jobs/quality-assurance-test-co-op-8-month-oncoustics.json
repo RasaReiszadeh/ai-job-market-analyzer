@@ -1,0 +1,40 @@
+{
+  "job_title": "Quality Assurance / Test Co-op (8 Month)",
+  "company_name": "Oncoustics",
+  "location": "Toronto, ON (On-site)",
+  "date_information_found": false,
+  "posting_date_evidence": null,
+  "posting_age_days": null,
+  "required_skills": [
+    "Experience with technology-based solutions",
+    "Enrollment in accredited Canadian University or College",
+    "Second year or beyond in Engineering, Computer Science, Physics, Math, Business, Science, or medical-based field",
+    "Canadian Citizen or Permanent Resident"
+  ],
+  "preferred_skills": [
+    "Programming experience",
+    "Prior biomedical field experience",
+    "Self-motivated"
+  ],
+  "experience_level": "Student (Second year or beyond)",
+  "education_requirements": "Must be actively enrolled in an accredited Canadian University or College",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Understand company solutions and customer use",
+    "Test solutions for issues, log concerns, and collaborate with development teams to fix problems",
+    "Propose and develop systems to improve QA performance and efficiency",
+    "Collaborate efficiently with other team members"
+  ],
+  "posting_age_note": "No date information found anywhere in the posting text.",
+  "company_research": {
+    "summary": "Oncoustics is a Toronto-based medical technology startup with 25 employees that uses AI to transform ultrasound data into diagnostic tools for liver and prostate disease. The company has raised over $11M in total funding, including a 2022 seed round and multiple non-dilutive grants in 2024 and 2025 to support FDA regulatory submissions. As a QA/Test Co-op, you would be working in a hybrid startup environment focused on high-stakes medical software (SaMD) where rigorous testing is critical for clinical trials and regulatory clearance.",
+    "sources": [
+      "https://www.oncoustics.com/news/0",
+      "https://activation.capital/oncoustics",
+      "https://www.crunchbase.com/organization/oncoustics",
+      "https://ca.linkedin.com/company/oncoustics"
+    ]
+  },
+  "source_file": "Quality Assurance _ Test Co-op (8 Month).pdf",
+  "extracted_at": "2026-08-07T22:55:03.335Z"
+}

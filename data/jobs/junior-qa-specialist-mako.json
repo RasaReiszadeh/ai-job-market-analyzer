@@ -1,0 +1,52 @@
+{
+  "job_title": "Junior QA Specialist",
+  "company_name": "Mako",
+  "location": "Montreal, Quebec (Remote)",
+  "date_information_found": false,
+  "posting_date_evidence": null,
+  "posting_age_days": null,
+  "required_skills": [
+    "Software testing lifecycle",
+    "Test plans",
+    "Test cases",
+    "Test execution",
+    "Regression testing",
+    "Automation frameworks",
+    "Testing web applications across multiple browsers",
+    "Documentation",
+    "Communication skills",
+    "Organizational skills",
+    "Time-management"
+  ],
+  "preferred_skills": [
+    "Test automation",
+    "Wealth management industry experience",
+    "Bilingual (English/French)"
+  ],
+  "experience_level": "Entry-level",
+  "education_requirements": "Educational background in computer science, mathematics, physics, engineering, or a related field",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Perform regression testing to ensure application and configuration standards are met",
+    "Inspect deliverables before each release",
+    "Automate regression tests using existing automation frameworks",
+    "Collaborate with Sales Engineers, Solutions Engineers, Post-Launch Engineering, and Software Engineers to understand business, functional, and data changes per sprint/release",
+    "Understand business process review documentation",
+    "Develop and execute Test Plans to validate system changes and functionality with sufficient coverage",
+    "Identify and track defects and provide test outcome reports",
+    "Recommend and implement QA best practices, methodologies, and tools",
+    "Work with Solutions Engineering, Post Launch Engineering, and Product teams to improve processes"
+  ],
+  "posting_age_note": "No date information found anywhere in the posting text.",
+  "company_research": {
+    "summary": "Mako Financial Technologies is a high-growth Canadian fintech firm specializing in cloud-based wealth management automation, recently hiring for remote Junior QA roles to support their expanding software suite. Applicants should distinguish this firm from other companies with the same name, such as Mako Networks (a mid-size enterprise networking company with mixed culture reviews) and Mako (a global options market maker). The fintech role emphasizes a need for cross-browser testing skills and collaboration between engineering and product teams to maintain high-quality standards during rapid scaling.",
+    "sources": [
+      "https://testdevjobs.com/job/mako-financial-technologies-junior-qa-specialist-22552",
+      "https://www.mako.com/opportunities",
+      "https://www.glassdoor.com/Reviews/Mako-Networks-Reviews-E2034703.htm",
+      "https://makomedical.com/"
+    ]
+  },
+  "source_file": "BambooHR.pdf",
+  "extracted_at": "2026-08-07T22:54:35.682Z"
+}

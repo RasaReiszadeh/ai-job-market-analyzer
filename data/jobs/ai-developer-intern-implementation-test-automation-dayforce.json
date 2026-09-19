@@ -1,0 +1,59 @@
+{
+  "job_title": "AI Developer Intern - Implementation Test Automation",
+  "company_name": "Dayforce",
+  "location": "Toronto, ON (Hybrid)",
+  "date_information_found": true,
+  "posting_date_evidence": "Posted Wednesday, July 29, 2026 at 12:00 AM",
+  "posting_age_days": 9,
+  "required_skills": [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "React",
+    "Large Language Models",
+    "prompt engineering",
+    "generative AI",
+    "REST APIs",
+    "software development practices",
+    "analytical skills",
+    "problem-solving skills",
+    "communication skills"
+  ],
+  "preferred_skills": [
+    "Azure AI",
+    "Azure OpenAI",
+    "LangChain",
+    "agentic AI frameworks",
+    "Retrieval-Augmented Generation (RAG) architectures",
+    "vector databases",
+    "software test automation tools (Playwright, Selenium, pytest)",
+    "Human Capital Management (HCM)",
+    "payroll",
+    "enterprise SaaS applications",
+    "experience contributing to production software projects"
+  ],
+  "experience_level": "not listed",
+  "education_requirements": "Currently pursuing a Bachelor's or Master's degree in Computer Science, Computer Engineering, Mathematics, Software Engineering, or a related technical field",
+  "salary_range": "28.20 CAD - 30.77 CAD hourly",
+  "key_responsibilities": [
+    "Design, build, and enhance features within an AI-powered test automation platform",
+    "Collaborate with implementation consultants to map manual testing workflows and identify automation opportunities",
+    "Develop AI-driven workflows using Azure OpenAI, LangChain, RAG, and agentic AI frameworks",
+    "Build capabilities for automated test case generation, execution, and intelligent analysis of test results",
+    "Develop backend services using Python and SQL and contribute to front-end functionality using React and JavaScript",
+    "Measure and analyze effectiveness of automation by tracking metrics such as hours saved, test coverage improvements, and earlier defect detection",
+    "Document technical solutions and communicate findings to technical and business stakeholders"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "Dayforce is a global leader in Human Capital Management (HCM) software, recently transitioning to a privately-held company after a $12.3 billion acquisition by Thoma Bravo in early 2026. The company employs over 9,000 people and maintains a strong market position, consistently recognized as a leader in Gartner’s Magic Quadrant for cloud HCM suites. For the AI Developer Intern role, candidates will work in an innovation lab environment, focusing on using Large Language Models (LLMs) and automation to streamline internal workflows and implementation testing. Employee feedback generally highlights a positive work-life balance (4.0/5 on Glassdoor) and a supportive, hybrid-friendly culture, though some reviews note the fast-paced nature of a large enterprise undergoing ownership changes.",
+    "sources": [
+      "https://s203.q4cdn.com/998886067/files/doc_financials/2025/q1/DAY-1Q2025-Form-10-Q-Final.pdf",
+      "https://www.globenewswire.com/news-release/2025/10/29/3176886/0/en/dayforce-reports-third-quarter-2025-results.html",
+      "https://jobs.dayforcehcm.com/en-US/mydayforce/ALLJOBS/jobs/100384",
+      "https://www.glassdoor.com/Reviews/Dayforce-Reviews-E179.htm"
+    ]
+  },
+  "source_file": "AI Developer Intern 8 Months Fall 2026 _ Dayforce Jobs.pdf",
+  "extracted_at": "2026-08-07T22:54:24.968Z"
+}

@@ -1,0 +1,46 @@
+{
+  "job_title": "QA Automation Engineer Co-op",
+  "company_name": "commonsku",
+  "location": "Remote - Toronto, ON or Greater Toronto Area (Fully Remote)",
+  "date_information_found": false,
+  "posting_date_evidence": null,
+  "posting_age_days": null,
+  "required_skills": [
+    "Automated testing",
+    "Test plan and test case design",
+    "Bug documentation and reporting",
+    "Manual, exploratory, system, functional, integration, regression, and smoke testing",
+    "Database-driven web application testing",
+    "Software version control systems (Git)",
+    "TypeScript",
+    "Integration test frameworks (Playwright or Selenium)",
+    "Collaboration and communication skills",
+    "Organizational skills"
+  ],
+  "preferred_skills": [
+    "Experience or excitement for working with AI"
+  ],
+  "experience_level": "Internship / Co-op term, currently enrolled student",
+  "education_requirements": "Currently enrolled in a post-secondary program in Computer Science, Software Engineering, or a related technical field",
+  "salary_range": "CAD3,800 - CAD4,500 per month",
+  "key_responsibilities": [
+    "Assist in designing and documenting automated test plans and test cases for features",
+    "Document and report bugs, failures, and test results; support defect investigation and re-testing",
+    "Learn and contribute to automated test scripts",
+    "Collaborate with developers and designers to understand features and ensure QA standards",
+    "Execute various testing types (manual, exploratory, system, functional, integration, regression, smoke) under guidance",
+    "Communicate testing status and findings regularly to help support customer experience"
+  ],
+  "posting_age_note": "No date information found anywhere in the posting text.",
+  "company_research": {
+    "summary": "commonsku is a mid-sized (approx. 50-100 employees) cloud-based CRM and order management platform specifically for the promotional products industry, headquartered in Toronto. The company is currently in a growth phase, reporting a nearly 30% increase in network revenue to $1.8 billion in 2023 and earning multiple \"Great Place to Work\" certifications. Employee reviews are overwhelmingly positive (4.6+ stars on Glassdoor), highlighting a \"people-first\" culture, strong work-life balance, and a collaborative environment that values community and innovation.",
+    "sources": [
+      "https://commonsku.com/careers",
+      "https://www.glassdoor.com/Overview/Working-at-commonsku-EI_IE8089158.11,20.htm",
+      "https://www.ppai.org/media-hub/commonsku-s-distributor-network-grew-to-more-than-18-billion-in-2023",
+      "https://ca.linkedin.com/jobs/view/qa-engineer-internship-at-commonsku-4437016542"
+    ]
+  },
+  "source_file": "QA Engineer - Internship - commonsku.pdf",
+  "extracted_at": "2026-08-07T22:54:51.560Z"
+}

@@ -1,0 +1,52 @@
+{
+  "job_title": "Software Quality Assurance Co-op",
+  "company_name": "Rakuten Kobo Inc.",
+  "location": "Toronto, Canada",
+  "date_information_found": true,
+  "posting_date_evidence": "Posted Today",
+  "posting_age_days": 0,
+  "required_skills": [
+    "Kotlin",
+    "C#",
+    "Java",
+    "SQL",
+    "NoSQL",
+    "Software development life cycle knowledge",
+    "Project management processes knowledge",
+    "Software Quality Assurance",
+    "White box testing",
+    "Black box testing",
+    "Test case development and execution"
+  ],
+  "preferred_skills": [
+    "Java",
+    "C#",
+    "Selenium",
+    "Cypress",
+    "Cucumber",
+    "Demo creation and presentation",
+    "Programming skills"
+  ],
+  "experience_level": "not listed",
+  "education_requirements": "Must be registered as a full-time student in a post-secondary institution program at an accredited Canadian post-secondary institution",
+  "salary_range": "$50,000.00 CAD",
+  "key_responsibilities": [
+    "Contribute to QA and software development work within the team",
+    "Ensure quality software delivery",
+    "Work effectively on a self-organizing team with minimal supervision",
+    "Manage multiple tasks and tight deadlines",
+    "Apply communication skills in oral and written forms"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "Rakuten Kobo is a mid-sized digital bookseller headquartered in Toronto, employing 200–500 people and operating as a subsidiary of the Japanese giant Rakuten. The company maintains a \"startup-like\" casual environment focused on eReaders, audiobooks, and software apps, with a tech stack involving mobile, server-side, and automation testing. Employee sentiment is highly positive, especially regarding culture and work-life balance (rated ~4.3/5), making it a well-regarded destination for software co-op students seeking a collaborative, engineering-focused atmosphere.",
+    "sources": [
+      "https://www.glassdoor.com/Reviews/Rakuten-Kobo-Reviews-E403579.htm",
+      "https://www.kobo.com/us/en/p/careers",
+      "https://www.clodura.ai/directory/company/rakuten-kobo-inc",
+      "https://www.signalhire.com/companies/rakuten-kobo-inc"
+    ]
+  },
+  "source_file": "Software Quality Assurance Co-op.pdf",
+  "extracted_at": "2026-08-07T22:55:06.715Z"
+}

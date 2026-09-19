@@ -1,0 +1,142 @@
+{
+  "hard_skills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "C++",
+    "C",
+    "SQL",
+    "React",
+    "React Native",
+    "Expo Router",
+    "Vite",
+    "HTML5",
+    "CSS3",
+    "SCSS",
+    "Bootstrap",
+    "Node.js",
+    "Express.js",
+    "Hono",
+    "AWS S3",
+    "DynamoDB",
+    "Docker",
+    "CI/CD",
+    "PostgreSQL",
+    "Supabase",
+    "MySQL",
+    "MongoDB",
+    "TensorFlow",
+    "Keras",
+    "OpenCV",
+    "Prompt Engineering",
+    "RAG",
+    "Jest",
+    "Selenium",
+    "Cucumber",
+    "Postman",
+    "Passport.js",
+    "AWS Cognito",
+    "SQLite",
+    "JDBC"
+  ],
+  "soft_skills": [
+    "communication",
+    "collaboration",
+    "problem-solving",
+    "adaptability",
+    "documentation",
+    "technical communication",
+    "stakeholder communication",
+    "teamwork"
+  ],
+  "work_experience": [
+    {
+      "role": "Junior Software Engineer (Co-op)",
+      "company": "Ministry of Public and Business Service Delivery and Procurement — Government of Ontario",
+      "duration": "Jan 2025 – Aug 2025",
+      "description": "Improved QA automation test coverage and efficiency recognized by CIO; built and maintained Selenium and Cucumber test suites; executed API testing with Postman; collaborated in Agile sprints; worked with Microsoft Azure and Git under strict security standards; produced test plans and defect reports supporting continuous improvement."
+    },
+    {
+      "role": "Volunteer",
+      "company": "Achieving Equity Working Group — Ministry of Children, Community and Social Services — Government of Ontario",
+      "duration": "Jan 2025 – Aug 2025",
+      "description": "Contributed to equity and inclusion initiatives; collaborated with cross-functional teams to develop inclusive workplace programming."
+    },
+    {
+      "role": "Online English Tutor (Part-time)",
+      "company": "Amir English Academy",
+      "duration": "Oct 2023 – Feb 2024",
+      "description": "Delivered personalized English lessons online; adapted teaching to individual learning styles; tracked progress; developed clear technical communication and explanation skills."
+    },
+    {
+      "role": "Customer Service Associate (Part-time)",
+      "company": "Clue Entertainment Centre",
+      "duration": "May 2024 – Aug 2024",
+      "description": "Managed high volumes of customer interactions with accuracy and composure in a fast-paced environment."
+    },
+    {
+      "role": "Laboratory Assistant Intern",
+      "company": "15-Khordad Educational and Treatment Center",
+      "duration": "Jan 2023 – May 2023",
+      "description": "Organized and maintained clinical records and laboratory materials with strict accuracy; applied systematic documentation and quality control that informed current software testing practices."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Advanced Diploma in Computer Programming & Analysis",
+      "institution": "Seneca Polytechnic",
+      "details": "Jan 2024 – Aug 2026; Relevant courses: Data Structures & Algorithms, AI for Programmers, Cross-platform App Development, UI/UX Design, Cloud Computing for Programmers, Computer Vision, Application Development, OOP with C++, Advanced Database Services, Operating Systems."
+    }
+  ],
+  "certifications": [
+    "CS50's Introduction to Programming with Python — Harvard University (edX)",
+    "Programming for Everybody (Python) — University of Michigan (Coursera)",
+    "Career Essentials in Generative AI — Microsoft & LinkedIn"
+  ],
+  "projects": [
+    {
+      "name": "Fragments",
+      "description": "Developed a cloud microservice API using Node.js, Express, AWS S3, DynamoDB, Docker, and Jest for storing and converting user data fragments with authentication and testing."
+    },
+    {
+      "name": "Self-Driving Car Simulation",
+      "description": "Implemented NVIDIA's convolutional neural network for autonomous steering with full machine learning pipeline using Python, TensorFlow, Keras, OpenCV, achieving stable simulated autonomous driving."
+    },
+    {
+      "name": "SettleCAN",
+      "description": "Full-stack capstone project using React, Vite, Express.js, Supabase, PostgreSQL, and Jest; contributed major features including task manager, checklist, community hub, notification services, testing, and database design for newcomer support."
+    },
+    {
+      "name": "AI Developer Tooling Suite",
+      "description": "Created a monorepo of AI-powered developer tools with TypeScript, Node.js, Hono, Zod, and OpenRouter LLM API for commit message generation, flashcard creation, pull request analysis, and tool-calling agent."
+    },
+    {
+      "name": "RXH Grand Hotel Management System",
+      "description": "Designed database schema and Java service layer for hotel guest services including booking, loyalty programs, waitlists, and revenue reporting in a team project."
+    }
+  ],
+  "keywords_domain_expertise": [
+    "Agile",
+    "QA automation",
+    "API testing",
+    "UI regression testing",
+    "integration testing",
+    "test coverage",
+    "defect tracking",
+    "sprint planning",
+    "cloud microservices",
+    "machine learning pipeline",
+    "image augmentation",
+    "early stopping",
+    "model checkpoint",
+    "prompt engineering",
+    "generative AI",
+    "containerization",
+    "CI/CD",
+    "JWT authentication",
+    "HTTP Basic authentication",
+    "security standards",
+    "microservice architecture"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "job_title": "Student - Automation",
+  "company_name": "Medavie",
+  "location": "Multiple opportunities across Atlantic Canada and Ontario, Remote",
+  "date_information_found": true,
+  "posting_date_evidence": "Posted 3 Days Ago",
+  "posting_age_days": 3,
+  "required_skills": [
+    "Git",
+    "GitLab",
+    "SQL basics",
+    "API testing with Postman"
+  ],
+  "preferred_skills": [
+    "WebdriverIO",
+    "AI-assisted coding tools such as GitHub Copilot",
+    "Bilingualism in English and French"
+  ],
+  "experience_level": "Student, currently enrolled or recently graduated",
+  "education_requirements": "Currently enrolled in, or recently graduated from, a post-secondary program in Information Technology, Computer Science, Software Development, Information Systems, Quality Assurance, or a related technical field",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Support the development, maintenance, and execution of automated test scripts",
+    "Validate application functionality and identify defects",
+    "Improve test coverage",
+    "Contribute to activities supporting the delivery of reliable, efficient, and high-quality software releases"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "Medavie is a large Canadian not-for-profit health organization with over 10,000 employees, operating primarily in health insurance (Medavie Blue Cross) and emergency medical services. The 'Student - Automation' role is a learning-focused position involving API testing (Postman), SQL, and Git/GitLab within a software delivery framework. Employee sentiment is generally positive, with a 3.7–3.8 rating on Glassdoor and high marks for work-life balance (4.1/5), though some reviews mention steep learning curves and high turnover in remote roles.",
+    "sources": [
+      "https://ca.linkedin.com/company/medavie",
+      "https://www.glassdoor.com/Overview/Working-at-Medavie-EI_IE490643.11,18.htm",
+      "https://medaviehs.wd10.myworkdayjobs.com/medavie_external/job/new-brunswick/student---automation_r-268666",
+      "https://en.wikipedia.org/wiki/Medavie_Blue_Cross"
+    ]
+  },
+  "source_file": "Student - Automation.pdf",
+  "extracted_at": "2026-08-07T22:55:09.824Z"
+}

@@ -1,0 +1,79 @@
+{
+  "strengths": [
+    {
+      "skill": "SQL",
+      "market_demand": "5/11 postings",
+      "resume_evidence": "Demonstrated in the 'SettleCAN' capstone project (PostgreSQL) and 'RXH Grand Hotel' management system (database schema design)."
+    },
+    {
+      "skill": "Java",
+      "market_demand": "3/11 postings",
+      "resume_evidence": "Demonstrated in the 'RXH Grand Hotel' project through the development of the service layer."
+    },
+    {
+      "skill": "Python",
+      "market_demand": "2/11 postings",
+      "resume_evidence": "Core skill for the 'Self-Driving Car Simulation' using TensorFlow and Keras."
+    },
+    {
+      "skill": "Integration Testing / Automation",
+      "market_demand": "2/11 postings",
+      "resume_evidence": "Applied during the Ontario Government Co-op, specifically building Selenium and Cucumber test suites."
+    },
+    {
+      "skill": "React / JavaScript",
+      "market_demand": "1/11 postings",
+      "resume_evidence": "Used in 'SettleCAN' and the 'AI Developer Tooling Suite'."
+    },
+    {
+      "skill": "Generative AI / Prompt Engineering",
+      "market_demand": "1/11 postings",
+      "resume_evidence": "Demonstrated through the 'AI Developer Tooling Suite' using the OpenRouter LLM API and the Microsoft Generative AI certification."
+    }
+  ],
+  "gaps": [
+    {
+      "skill": "Git / GitHub",
+      "market_demand": "2/11 postings",
+      "triage_level": "quick_win",
+      "recommendation": "Add a 'Tools' section to your resume and list 'Git' and 'GitHub' explicitly. Mention using Git for version control and branching in your Ontario Government role."
+    },
+    {
+      "skill": "Regression Testing",
+      "market_demand": "2/11 postings",
+      "triage_level": "quick_win",
+      "recommendation": "Explicitly mention 'Regression Testing' in your Ontario Government role description, as it is a standard part of maintaining the Selenium/Cucumber suites you built."
+    },
+    {
+      "skill": "Communication / Organizational Skills",
+      "market_demand": "2/11 postings",
+      "triage_level": "quick_win",
+      "recommendation": "In your 'Online English Tutor' and 'Volunteer' roles, emphasize 'verbal and written communication' and 'cross-functional collaboration' to satisfy these soft skill requirements."
+    },
+    {
+      "skill": "LangChain & Agentic AI Frameworks",
+      "market_demand": "1/11 postings",
+      "triage_level": "short_term",
+      "recommendation": "Complete the DeepLearning.AI 'LangChain for LLM Application Development' short course (approx. 2 hours) and the 'AI Agents in LangGraph' course. Both are free to audit."
+    },
+    {
+      "skill": "Azure AI / OpenAI",
+      "market_demand": "1/11 postings",
+      "triage_level": "short_term",
+      "recommendation": "Complete the 'Azure AI Fundamentals' (AI-900) learning path on Microsoft Learn (free) to get a formal credential for your existing Azure experience."
+    },
+    {
+      "skill": "RAG & Vector Databases",
+      "market_demand": "1/11 postings",
+      "triage_level": "medium_term",
+      "recommendation": "Build a small project using a vector database (like Pinecone or Weaviate) to enhance your 'AI Developer Tooling Suite' with RAG capabilities. Follow the 'Building RAG Applications' tutorial on freeCodeCamp."
+    }
+  ],
+  "unique_value": [
+    "Public Sector Experience: Experience working within the Government of Ontario under strict security standards provides a high level of trust for corporate roles.",
+    "Specialized ML Project: The 'Self-Driving Car Simulation' using NVIDIA's CNN architecture shows a deep technical understanding of computer vision and neural networks beyond basic API usage.",
+    "Interdisciplinary Soft Skills: The transition from Laboratory Assistant (quality control) and English Tutor (communication) to Software Engineering shows a unique commitment to accuracy and technical explanation.",
+    "AI-Driven Productivity: The 'AI Developer Tooling Suite' demonstrates a proactive approach to using AI to improve the developer workflow itself (e.g., PR analysis, commit generation)."
+  ],
+  "generated_at": "2026-08-09T03:40:53.966Z"
+}

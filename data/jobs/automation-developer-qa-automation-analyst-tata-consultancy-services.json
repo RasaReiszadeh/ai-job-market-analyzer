@@ -1,0 +1,67 @@
+{
+  "job_title": "Automation Developer / QA Automation Analyst",
+  "company_name": "Tata Consultancy Services",
+  "location": "Toronto, ON",
+  "date_information_found": true,
+  "posting_date_evidence": "Apply By | 04-Oct-2026",
+  "posting_age_days": 58,
+  "required_skills": [
+    "Selenium",
+    "RestAssured",
+    "Cucumber",
+    "TestNG",
+    "Postman",
+    "Java",
+    "Python",
+    "Maven",
+    "Gradle",
+    "Git",
+    "GitHub",
+    "GitHub Actions",
+    "Jenkins",
+    "JIRA",
+    "qTest",
+    "ALM",
+    "API Testing",
+    "UI Testing",
+    "Integration Testing",
+    "Automation Testing principles"
+  ],
+  "preferred_skills": [
+    "SQL",
+    "JDBC",
+    "Database Testing",
+    "Docker",
+    "Containerized Environments",
+    "OpenShift",
+    "Windows Server Environments",
+    "DevOps",
+    "Cloud-based Testing"
+  ],
+  "experience_level": "8 - 10 years",
+  "education_requirements": "not listed",
+  "salary_range": "CA$ 90,000 - CA$ 110,000 Per Year",
+  "key_responsibilities": [
+    "Design, develop, and maintain automated test frameworks and scripts",
+    "Develop and execute UI, API, and end-to-end automated test cases",
+    "Perform API testing using RestAssured and Postman",
+    "Implement behavior-driven testing using Cucumber and TestNG",
+    "Collaborate with development and QA teams to ensure test coverage and quality standards",
+    "Integrate automation suites into CI/CD pipelines",
+    "Manage test execution, defect tracking, and reporting",
+    "Participate in Agile ceremonies and support release validation activities",
+    "Maintain automation frameworks and improve testing efficiency"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "TCS is a global IT services enterprise and part of the massive Tata Group conglomerate, employing over 600,000 people. While it is historically known for job security and a strong learning environment for automation roles, 2025 news reports indicate a significant shift, including layoffs of approximately 12,000 employees (2% of workforce) as the company pivots toward AI-driven models. For an Automation Developer, this means a focus on high-skill AI integration is likely required to stay competitive within their current \"outcome-based\" business strategy.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tata_Group",
+      "https://www.glassdoor.com/Reviews/Tata-Consultancy-Services-Automation-Engineer-Reviews-EI_IE13461.0,25_KO26,45.htm",
+      "https://m.economictimes.com/news/tcs-layoffs/amp",
+      "https://www.reuters.com/business/world-at-work/india-tech-giant-tcs-layoffs-herald-ai-shakeup-283-billion-outsourcing-sector-2025-08-08"
+    ]
+  },
+  "source_file": "TCS iBegin.pdf",
+  "extracted_at": "2026-08-07T22:55:14.097Z"
+}

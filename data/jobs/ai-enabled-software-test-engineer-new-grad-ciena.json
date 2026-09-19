@@ -1,0 +1,48 @@
+{
+  "job_title": "AI-Enabled Software Test Engineer - New Grad",
+  "company_name": "Ciena",
+  "location": "Ottawa (Full time)",
+  "date_information_found": true,
+  "posting_date_evidence": "Posted 29 Days Ago",
+  "posting_age_days": 29,
+  "required_skills": [
+    "AI-driven software testing methodologies",
+    "Generative AI tools applied to software testing",
+    "Python scripting",
+    "JavaScript scripting",
+    "API automation development",
+    "UI automation development",
+    "Test automation frameworks",
+    "Continuous integration (CI/CD) pipelines"
+  ],
+  "preferred_skills": [
+    "Generative AI frameworks (e.g. GitHub Co-pilot, Post-bot)",
+    "Model Context Protocol (MCP)",
+    "Google ADK or equivalent AI development kits",
+    "Agentic AI framework design and implementation"
+  ],
+  "experience_level": "Entry-level, 1+ years including internships",
+  "education_requirements": "Master’s degree in Computer Science or Electrical Engineering OR Bachelor of Science degree in Computer Science or Electrical Engineering, or equivalent",
+  "salary_range": "$62,100 to $99,300 CAD",
+  "key_responsibilities": [
+    "Design and execute comprehensive test plans for Navigator Intelligent Apps using Agentic AI and Generative AI tools",
+    "Automate test case creation, execution, and validation across API and UI layers using AI-enabled frameworks",
+    "Develop and maintain API automation workflows and UI automation suites",
+    "Analyze automated test results using Agentic AI agents to identify defects and accelerate resolution",
+    "Investigate software defects, assess customer impact, and escalate critical issues in collaboration with development teams",
+    "Manage test artifacts, source code repositories, and continuous integration test execution within CI/CD pipelines",
+    "Collaborate with cross-functional teams throughout the release cycle to ensure alignment with functional specifications and quality standards"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "Ciena is a mid-to-large enterprise (approx. 9,000 employees) in the optical networking and software industry, currently pivoting toward AI-driven infrastructure and high-speed connectivity. While the company reports strong financial growth for FY2025/2026, it recently executed a significant 22% workforce reduction in January 2026 to realign with changing market conditions. Employee sentiment is generally positive regarding work-life balance and remote flexibility, though some reviews suggest limited internal promotion pathways for junior roles.",
+    "sources": [
+      "https://www.globaldata.com/company-profile/ciena-corp",
+      "https://s25.q4cdn.com/550667411/files/doc_presentations/2026/01/ESG-Investor-Presentation.pdf",
+      "https://www.glassdoor.com/Reviews/Ciena-Reviews-E6612.htm",
+      "https://www.lightreading.com/business-management/ciena-lays-off-22-percent"
+    ]
+  },
+  "source_file": "AI-Enabled Software Test Engineer - New Grad.pdf",
+  "extracted_at": "2026-08-07T22:54:31.181Z"
+}

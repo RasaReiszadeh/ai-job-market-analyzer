@@ -1,0 +1,58 @@
+{
+  "job_title": "Junior Quality Assurance Automation Analyst",
+  "company_name": "CGI",
+  "location": "Toronto, Ontario, Canada (Hybrid)",
+  "date_information_found": false,
+  "posting_date_evidence": null,
+  "posting_age_days": null,
+  "required_skills": [
+    "Selenium WebDriver",
+    "Java",
+    "Software Testing Methodologies",
+    "Regression Testing",
+    "Functional Testing",
+    "Integration Testing",
+    "Smoke Testing",
+    "Defect Management Tools (Jira or Azure DevOps)",
+    "Agile/Scrum Methodologies",
+    "SDLC",
+    "STLC"
+  ],
+  "preferred_skills": [
+    "Banking or Financial Services",
+    "Salesforce Testing",
+    "API Testing (Postman or REST Assured)",
+    "Git",
+    "Jenkins",
+    "SQL",
+    "BDD/Cucumber",
+    "CI/CD Environments"
+  ],
+  "experience_level": "Junior, 1-3 years of QA Automation experience",
+  "education_requirements": "Bachelor's degree in Computer Science, Information Technology, or related discipline",
+  "salary_range": "$55,000–$105,000",
+  "key_responsibilities": [
+    "Develop, maintain, and execute automated test scripts using Selenium WebDriver and Java",
+    "Perform functional, regression, integration, and smoke testing",
+    "Design and maintain automation frameworks for web applications",
+    "Identify, document, and track software defects using defect management tools",
+    "Collaborate with developers, business analysts, and product owners to understand requirements",
+    "Participate in sprint planning, backlog grooming, and Agile ceremonies",
+    "Execute manual testing when automation is not feasible",
+    "Maintain test cases and testing documentation",
+    "Support CI/CD testing initiatives",
+    "Participate in production validation and release testing"
+  ],
+  "posting_age_note": "No date information found anywhere in the posting text.",
+  "company_research": {
+    "summary": "CGI is a massive global IT and business consulting enterprise with approximately 94,000 employees, operating across industries like government, banking, and healthcare. The company is known for a stable 'ownership' culture where employees are called 'partners,' and it generally receives positive reviews for work-life balance, though some report a slower, 9-5 corporate pace. For a Junior QA Automation Analyst, preparation should focus on Selenium, Java/Python, and ETL testing, as the role emphasizes building automation frameworks and data validation within large-scale client projects.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/CGI_Inc.",
+      "https://www.cgi.com/en/about",
+      "https://www.glassdoor.com/Reviews/CGI-Reviews-E8452.htm",
+      "https://applywave.app/visa-sponsorship-jobs/qa-automation-analyst-cgi-2fiezv"
+    ]
+  },
+  "source_file": "Careers _ CGI.com.pdf",
+  "extracted_at": "2026-08-07T22:54:40.606Z"
+}

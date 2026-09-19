@@ -1,0 +1,44 @@
+{
+  "job_title": "Co-op Quality Assurance Analyst - Fall 2026 (September to December)",
+  "company_name": "Info-Tech Research Group",
+  "location": "Ontario, Canada (Remote)",
+  "date_information_found": true,
+  "posting_date_evidence": "Posted : May 27, 2026",
+  "posting_age_days": 72,
+  "required_skills": [
+    "Test automation tools and frameworks",
+    "Excellent written communication skills",
+    "Excellent oral communication skills",
+    "Time management",
+    "Understanding of technical systems and concepts"
+  ],
+  "preferred_skills": [
+    "SQL",
+    "Relational databases"
+  ],
+  "experience_level": "Currently enrolled in a college diploma or university degree and eligible for co-op program",
+  "education_requirements": "Currently enrolled in a College Diploma or University Degree from an accredited institution and eligible to participate in a co-op program",
+  "salary_range": null,
+  "key_responsibilities": [
+    "Plan and execute test suites across various products and systems within an Agile software development process",
+    "Evaluate, plan, design, develop, and deploy test strategies, test plans, and test cases based on requirements for new or enhanced applications",
+    "Perform various types of testing including functional, regression, system integration, back-end database validation, mobile/scalability, cross-browser compatibility, and usability testing",
+    "Collaborate with developers and product owners to identify test scenarios and acceptance criteria",
+    "Liaise with software developers to address bugs and deficiencies discovered during testing",
+    "Analyze formal test results to discover and resolve defects, bugs, errors, configuration issues, and interoperability flaws",
+    "Produce reports and documentation for all test efforts, results, activities, data, logging, and tracking",
+    "Cultivate and disseminate knowledge of application testing best practices"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "Info-Tech Research Group is a fast-growing IT research and advisory firm with over 1,400 employees, recently recognized on Deloitte’s 2025 Technology Fast 500 and the Globe and Mail’s Top Growing Companies lists. The company maintains a mid-to-large enterprise scale and is currently expanding its global footprint in AI and strategic advisory services. Employee feedback indicates a generally positive culture (3.3–3.6 stars) that values collaboration and \"getting things done,\" though some reviews mention challenges with upper management and compensation. For a QA Analyst co-op, the environment appears fast-paced and lean, offering exposure to a global firm that is actively investing in new product innovation and AI-driven tools.",
+    "sources": [
+      "https://www.infotech.com/about",
+      "https://www.glassdoor.com/Reviews/Info-Tech-Research-Group-Reviews-E157440.htm",
+      "https://www.infotech.com/about/press-releases/info-tech-research-group-named-one-of-north-america-s-fastest-growing-companies-by-deloitte-for-2025-technology-fast-500-list",
+      "https://ca.indeed.com/cmp/Info--tech-Research-Group/reviews"
+    ]
+  },
+  "source_file": "Co-op Quality Assurance Analyst - Fall 2026 (September to December) - Ontario, Canada (REMOTE) _ Info-Tech Research Group Opportunities.pdf",
+  "extracted_at": "2026-08-07T22:54:46.413Z"
+}

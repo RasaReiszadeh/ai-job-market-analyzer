@@ -1,0 +1,366 @@
+{
+  "postings_analyzed": 11,
+  "top_required_skills": [
+    {
+      "skill": "Java",
+      "count": 3,
+      "companies": [
+        "Tata Consultancy Services",
+        "CGI",
+        "Rakuten Kobo Inc."
+      ]
+    },
+    {
+      "skill": "Python",
+      "count": 2,
+      "companies": [
+        "Dayforce",
+        "Tata Consultancy Services"
+      ]
+    },
+    {
+      "skill": "SQL",
+      "count": 2,
+      "companies": [
+        "Dayforce",
+        "Rakuten Kobo Inc."
+      ]
+    },
+    {
+      "skill": "communication skills",
+      "count": 2,
+      "companies": [
+        "Dayforce",
+        "Mako"
+      ]
+    },
+    {
+      "skill": "Git",
+      "count": 2,
+      "companies": [
+        "Tata Consultancy Services",
+        "Medavie"
+      ]
+    },
+    {
+      "skill": "GitHub",
+      "count": 2,
+      "companies": [
+        "Tata Consultancy Services",
+        "Foresters Financial"
+      ]
+    },
+    {
+      "skill": "Integration Testing",
+      "count": 2,
+      "companies": [
+        "Tata Consultancy Services",
+        "CGI"
+      ]
+    },
+    {
+      "skill": "Regression testing",
+      "count": 2,
+      "companies": [
+        "Mako",
+        "CGI"
+      ]
+    },
+    {
+      "skill": "Organizational skills",
+      "count": 2,
+      "companies": [
+        "Mako",
+        "commonsku"
+      ]
+    },
+    {
+      "skill": "JavaScript",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "React",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "Large Language Models",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "prompt engineering",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "generative AI",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "REST APIs",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    }
+  ],
+  "top_preferred_skills": [
+    {
+      "skill": "SQL",
+      "count": 3,
+      "companies": [
+        "Tata Consultancy Services",
+        "Info-Tech Research Group",
+        "CGI"
+      ]
+    },
+    {
+      "skill": "Azure AI",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "Azure OpenAI",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "LangChain",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "agentic AI frameworks",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "Retrieval-Augmented Generation (RAG) architectures",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "vector databases",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "software test automation tools (Playwright, Selenium, pytest)",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "Human Capital Management (HCM)",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    },
+    {
+      "skill": "payroll",
+      "count": 1,
+      "companies": [
+        "Dayforce"
+      ]
+    }
+  ],
+  "experience_levels": [
+    {
+      "company": "Dayforce",
+      "job_title": "AI Developer Intern - Implementation Test Automation",
+      "level": "not listed"
+    },
+    {
+      "company": "Ciena",
+      "job_title": "AI-Enabled Software Test Engineer - New Grad",
+      "level": "Entry-level, 1+ years including internships"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "job_title": "Automation Developer / QA Automation Analyst",
+      "level": "8 - 10 years"
+    },
+    {
+      "company": "Info-Tech Research Group",
+      "job_title": "Co-op Quality Assurance Analyst - Fall 2026 (September to December)",
+      "level": "Currently enrolled in a college diploma or university degree and eligible for co-op program"
+    },
+    {
+      "company": "Mako",
+      "job_title": "Junior QA Specialist",
+      "level": "Entry-level"
+    },
+    {
+      "company": "CGI",
+      "job_title": "Junior Quality Assurance Automation Analyst",
+      "level": "Junior, 1-3 years of QA Automation experience"
+    },
+    {
+      "company": "commonsku",
+      "job_title": "QA Automation Engineer Co-op",
+      "level": "Internship / Co-op term, currently enrolled student"
+    },
+    {
+      "company": "Foresters Financial",
+      "job_title": "Quality Assurance Engineer Co-op Student (4-month contract)",
+      "level": "Co-op Student"
+    },
+    {
+      "company": "Oncoustics",
+      "job_title": "Quality Assurance / Test Co-op (8 Month)",
+      "level": "Student (Second year or beyond)"
+    },
+    {
+      "company": "Rakuten Kobo Inc.",
+      "job_title": "Software Quality Assurance Co-op",
+      "level": "not listed"
+    },
+    {
+      "company": "Medavie",
+      "job_title": "Student - Automation",
+      "level": "Student, currently enrolled or recently graduated"
+    }
+  ],
+  "education_requirements": [
+    {
+      "company": "Dayforce",
+      "job_title": "AI Developer Intern - Implementation Test Automation",
+      "requirement": "Currently pursuing a Bachelor's or Master's degree in Computer Science, Computer Engineering, Mathematics, Software Engineering, or a related technical field"
+    },
+    {
+      "company": "Ciena",
+      "job_title": "AI-Enabled Software Test Engineer - New Grad",
+      "requirement": "Master’s degree in Computer Science or Electrical Engineering OR Bachelor of Science degree in Computer Science or Electrical Engineering, or equivalent"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "job_title": "Automation Developer / QA Automation Analyst",
+      "requirement": "not listed"
+    },
+    {
+      "company": "Info-Tech Research Group",
+      "job_title": "Co-op Quality Assurance Analyst - Fall 2026 (September to December)",
+      "requirement": "Currently enrolled in a College Diploma or University Degree from an accredited institution and eligible to participate in a co-op program"
+    },
+    {
+      "company": "Mako",
+      "job_title": "Junior QA Specialist",
+      "requirement": "Educational background in computer science, mathematics, physics, engineering, or a related field"
+    },
+    {
+      "company": "CGI",
+      "job_title": "Junior Quality Assurance Automation Analyst",
+      "requirement": "Bachelor's degree in Computer Science, Information Technology, or related discipline"
+    },
+    {
+      "company": "commonsku",
+      "job_title": "QA Automation Engineer Co-op",
+      "requirement": "Currently enrolled in a post-secondary program in Computer Science, Software Engineering, or a related technical field"
+    },
+    {
+      "company": "Foresters Financial",
+      "job_title": "Quality Assurance Engineer Co-op Student (4-month contract)",
+      "requirement": "Currently enrolled in a Bachelor's program in Computer Science, Engineering, or a related field"
+    },
+    {
+      "company": "Oncoustics",
+      "job_title": "Quality Assurance / Test Co-op (8 Month)",
+      "requirement": "Must be actively enrolled in an accredited Canadian University or College"
+    },
+    {
+      "company": "Rakuten Kobo Inc.",
+      "job_title": "Software Quality Assurance Co-op",
+      "requirement": "Must be registered as a full-time student in a post-secondary institution program at an accredited Canadian post-secondary institution"
+    },
+    {
+      "company": "Medavie",
+      "job_title": "Student - Automation",
+      "requirement": "Currently enrolled in, or recently graduated from, a post-secondary program in Information Technology, Computer Science, Software Development, Information Systems, Quality Assurance, or a related technical field"
+    }
+  ],
+  "salary_ranges_observed": [
+    {
+      "company": "Dayforce",
+      "job_title": "AI Developer Intern - Implementation Test Automation",
+      "range": "28.20 CAD - 30.77 CAD hourly"
+    },
+    {
+      "company": "Ciena",
+      "job_title": "AI-Enabled Software Test Engineer - New Grad",
+      "range": "$62,100 to $99,300 CAD"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "job_title": "Automation Developer / QA Automation Analyst",
+      "range": "CA$ 90,000 - CA$ 110,000 Per Year"
+    },
+    {
+      "company": "CGI",
+      "job_title": "Junior Quality Assurance Automation Analyst",
+      "range": "$55,000–$105,000"
+    },
+    {
+      "company": "commonsku",
+      "job_title": "QA Automation Engineer Co-op",
+      "range": "CAD3,800 - CAD4,500 per month"
+    },
+    {
+      "company": "Foresters Financial",
+      "job_title": "Quality Assurance Engineer Co-op Student (4-month contract)",
+      "range": "$21.00 - $30.00 per hour"
+    },
+    {
+      "company": "Rakuten Kobo Inc.",
+      "job_title": "Software Quality Assurance Co-op",
+      "range": "$50,000.00 CAD"
+    }
+  ],
+  "common_responsibilities": [
+    "Designing, developing, and maintaining automated test scripts and frameworks for UI, API, and end-to-end testing",
+    "Executing various types of testing including regression, integration, system, functional, smoke, and exploratory testing",
+    "Collaborating with cross-functional teams such as developers, product owners, and business analysts to understand requirements and improve testing processes",
+    "Analyzing test results, identifying defects, tracking issues, and reporting outcomes to relevant stakeholders",
+    "Integrating automated tests into CI/CD pipelines and managing test execution within Agile development cycles",
+    "Documenting test plans, test cases, and technical solutions to ensure clarity and traceability",
+    "Using programming languages (commonly Java and Python) and tools (such as Selenium, Playwright, RestAssured, Cucumber) to develop and automate tests",
+    "Supporting validation of software releases through manual testing when automation is not feasible",
+    "Improving testing efficiency and coverage by evaluating automation opportunities and refining test strategies"
+  ],
+  "notable_trends": [
+    "A strong emphasis on integrating AI and AI-driven frameworks (including Large Language Models and generative AI) into test automation workflows is emerging in select innovative companies",
+    "There is a demand for proficiency in both traditional test automation tools and modern software development practices such as CI/CD, Agile, and behavior-driven testing",
+    "Entry-level and co-op roles often focus on learning-oriented automation development while contributing to real projects, reflecting a blend of training and practical exposure",
+    "Collaboration and communication skills are consistently highlighted, pointing to the importance of cross-team coordination and clear reporting in QA roles",
+    "There is a noticeable trend towards versatility, with candidates expected to handle both manual and automated testing responsibilities depending on project needs",
+    "SQL and scripting skills are frequently required or preferred, indicating the importance of backend testing and data validation in these roles"
+  ],
+  "industry_culture_expectations": "The QA and automation testing field values practical skills in automation frameworks, programming, and Agile methodologies alongside strong communication and collaboration abilities. While formal degrees are commonly required or preferred, companies increasingly seek candidates with hands-on experience and adaptability to evolving AI-enhanced testing technologies. Hybrid and remote work arrangements are fairly common, especially in larger enterprises and innovative firms, though some roles emphasize in-office collaboration. Overall, the culture favors continuous learning, technical proficiency, and a proactive approach to quality assurance in fast-paced, often AI-integrated software environments.",
+  "generated_at": "2026-08-07T23:08:42.714Z"
+}

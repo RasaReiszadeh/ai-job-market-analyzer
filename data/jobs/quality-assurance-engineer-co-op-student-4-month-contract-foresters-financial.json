@@ -1,0 +1,58 @@
+{
+  "job_title": "Quality Assurance Engineer Co-op Student (4-month contract)",
+  "company_name": "Foresters Financial",
+  "location": "Toronto",
+  "date_information_found": true,
+  "posting_date_evidence": "Posted 16 Days Ago",
+  "posting_age_days": 16,
+  "required_skills": [
+    "Automated testing tools",
+    "Selenium with Java",
+    "Selenium with JavaScript",
+    "Playwright with TypeScript",
+    "CICD pipelines integration",
+    "Azure DevOps (ADO)",
+    "Agile methodology",
+    "Waterfall methodology",
+    "Integrated Development Environments",
+    "Eclipse",
+    "Version control systems",
+    "GitHub",
+    "Test and Defect Management",
+    "Operating Systems (Linux, Windows)",
+    "Containerization",
+    "Docker",
+    "Debugging skills",
+    "Web Automation testing",
+    "API Automation testing",
+    "Mobile Automation testing"
+  ],
+  "preferred_skills": [
+    "Microsoft Azure DevOps"
+  ],
+  "experience_level": "Co-op Student",
+  "education_requirements": "Currently enrolled in a Bachelor's program in Computer Science, Engineering, or a related field",
+  "salary_range": "$21.00 - $30.00 per hour",
+  "key_responsibilities": [
+    "Design, develop and execute automated test scripts",
+    "Conduct peer review of automation test scripts and provide corrective actions",
+    "Identify, analyze, track and manage detected automation system and program errors",
+    "Report automation development statuses and findings to Test Automation Lead and/or project team",
+    "Optimize test automation scripts to reduce technical debt and improve performance",
+    "Work with project teams and business subject matter experts to identify test cases suitable for automation",
+    "Provide input into design, creation and maintenance of Test Automation Framework and automation guidelines",
+    "Collaborate with DevOps team to incorporate test scripts into CICD pipelines"
+  ],
+  "posting_age_note": null,
+  "company_research": {
+    "summary": "Foresters Financial is a mid-sized fraternal life insurance provider with 1,001–5,000 employees, operating across Canada, the US, and the UK for over 150 years. The company has a stable \"A\" (Excellent) financial rating and is known for its focus on community investment, though recent reviews on Glassdoor (3.1/5 stars) suggest mixed sentiment regarding management transparency and career growth. For the QA Co-op role, applicants will work with modern tools like Selenium, Playwright, and Azure DevOps in an environment that emphasizes automated testing and CICD integration.",
+    "sources": [
+      "https://ca.linkedin.com/company/foresters",
+      "https://en.wikipedia.org/wiki/Foresters_Financial",
+      "https://www.glassdoor.com/Reviews/Foresters-Financial-Reviews-E135386.htm",
+      "https://ca.talent.com/view?id=bb6787393fc0"
+    ]
+  },
+  "source_file": "Quality Assurance Engineer Co-op Student (4-month contract) - Logo.pdf",
+  "extracted_at": "2026-08-07T22:54:59.342Z"
+}
